@@ -4,9 +4,9 @@ Perspective Technologies
 Programming Languages
 ---------------------
 
-+ D
-+ Go (Google)
-+ Rust
++ [D](https://dlang.org)
++ [Go](https://golang.org)
++ [Rust](https://rust-lang.org)
 
 
 Text Markup
@@ -19,46 +19,48 @@ Text Markup
 Config & Data Markup
 --------------------
 
-+ JSON
-+ SDLang
++ [JSON](http://json.org)
++ [SDLang](http://sdlang.org)
 + XML
-+ YAML
++ [YAML](http://yaml.org)
 
 
 Binary (schemeless) formats
 ---------------------------
 
-+ CBOR
++ [CBOR](http://cbor.io)
 
 
 SQL Databases
 -------------
 
-+ PostgreSQL (client-server)
-+ SQLite (embed)
++ [PostgreSQL](http://postgresql.org) (client-server)
++ [SQLite](https://sqlite.org) (embed)
 
 Computer vision
 ===============
 
-+ OpenCV
++ [OpenCV](http://opencv.org)
+
 
 Neural networks
 ===============
 
++ [TensorFlow](tensorflow.org)
 
 SCM
 ---
-+ Git
++ [Git](https://git-scm.com)
 
 
 3D API
 ------
 
-+ Vulkan
++ [Vulkan](https://khronos.org/vulkan/)
 
 
 
 Maps
 ----
 
-+ OSM
++ [Open Street Map](https://www.openstreetmap.org)
