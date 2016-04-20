@@ -63,4 +63,12 @@ SCM
 Maps
 ----
 
-+ [Open Street Map](https://www.openstreetmap.org)
++ [Open Street Map](https://openstreetmap.org)
+
+
+Embedded
+--------
++ [OpenEmbedded](http://openembedded.org) (Linux-based)
++ [Yocto Project](https://yoctoproject.org) (Linux-based)
++ [ChibiOS](http://chibios.org) (RTOS)
+
