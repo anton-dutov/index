@@ -4,7 +4,6 @@ Perspective Technologies
 Programming Languages
 ---------------------
 
-+ [D](https://dlang.org)
 + [Go](https://golang.org)
 + [Rust](https://rust-lang.org)
 
