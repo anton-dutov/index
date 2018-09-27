@@ -19,7 +19,6 @@ Config & Data Markup
 --------------------
 
 + [JSON](http://json.org)
-+ [SDLang](http://sdlang.org)
 + XML
 + [YAML](http://yaml.org)
 
